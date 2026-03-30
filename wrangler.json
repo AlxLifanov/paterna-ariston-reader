@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "paterna-ariston-reader",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "17f1fdd0-b23f-486a-bbcc-201d4cdaf239",
+			"database_name": "cloudflare_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
